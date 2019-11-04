@@ -577,6 +577,7 @@
         <module>kafka-to-gcs</module>
         <module>pubsub-to-elasticsearch</module>
         <module>pubsub-to-mongodb</module>
+        <module>file-format-conversion</module>
     </modules>
 
 </project>
