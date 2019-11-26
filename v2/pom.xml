@@ -569,12 +569,15 @@
 
 
     <modules>
+        <module>bigquery-to-elasticsearch</module>
         <module>bigquery-to-gcs</module>
-        <module>kafka-to-bigquery</module>
         <module>common</module>
         <module>csv-to-elasticsearch</module>
-        <module>bigquery-to-elasticsearch</module>
+        <module>kafka-to-bigquery</module>
+        <module>kafka-to-gcs</module>
         <module>pubsub-to-elasticsearch</module>
+        <module>pubsub-to-mongodb</module>
+        <module>file-format-conversion</module>
     </modules>
 
 </project>
