@@ -16,7 +16,7 @@ This is a Flex Template meaning that the pipeline code will be containerized and
 used to launch the Dataflow pipeline.
 
 #### Building Container Image
-* Set environment variables.
+* Set environment variables
 Set the pipeline vars
 ```sh
 PROJECT_NAME=my-project
